@@ -1,4 +1,4 @@
-local Owner = "fsdf43t346"
+local Owner = "BedWarsdafirst"
 
 local LocalPlayer = game.Players.LocalPlayer
 

@@ -1,6 +1,6 @@
 repeat task.wait() until game:IsLoaded()
 
-local MainScriptLoadstring = "https://raw.githubusercontent.com/AnonymusScripter/BedWars-Script/main/Creator.txt?token=GHSAT0AAAAAACPJK3G3QW4KBFSS7DLRRRLMZPNM6DAPMCSQA"
+local MainScriptLoadstring = "https://raw.githubusercontent.com/AnonymusScripter/BedWars-Script/main/Creator.txt"
 local SecurityLoadstring = "https://raw.githubusercontent.com/AlSploit/GodSploit/main/Security"
 
 local function InitMainScript()
